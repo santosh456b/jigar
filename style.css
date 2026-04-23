@@ -8,11 +8,11 @@
 
   --btn-bg: #ffffff;
   --btn-text: #000000;
-  --btn-hover-bg: #c8f135;
+  --btn-hover-bg: #EC7E4A;
   --btn-hover-text: #ffffff;
 
-  --color-primary: #c8f135;
-  --color-primary-dim: rgba(200, 241, 53, 0.15);
+  --color-primary: #EC7E4A;
+  --color-primary-dim: rgba(236, 126, 74, 0.15);
 
   --container-max-width: 1440px;
   --hero-container-max-width: 1320px;
@@ -646,12 +646,12 @@ p {
 }
 
 .testimonial-card-featured {
-  border-color: rgba(200, 241, 53, 0.3);
-  box-shadow: 0 0 0 1px rgba(200, 241, 53, 0.15), 0 8px 32px rgba(0, 0, 0, 0.4);
+  border-color: rgba(236, 126, 74, 0.3);
+  box-shadow: 0 0 0 1px rgba(236, 126, 74, 0.15), 0 8px 32px rgba(0, 0, 0, 0.4);
 }
 
 .testimonial-card-featured:hover {
-  border-color: rgba(200, 241, 53, 0.5);
+  border-color: rgba(236, 126, 74, 0.5);
 }
 
 .t-result {
@@ -765,14 +765,14 @@ p {
 
 /* CTA item — orange accent */
 .dock-item-cta {
-  color: #fff;
+  color: #ffffff;
   background: var(--color-primary);
   border-radius: 12px;
   margin-top: 2px;
 }
 
 .dock-item-cta:hover {
-  background: #b5dd30;
+  background: #d96d3b;
   color: #fff;
 }
 
@@ -980,8 +980,8 @@ p {
 
 .profile-social-link:hover {
   transform: translateY(-2px);
-  background: rgba(200, 241, 53, 0.18);
-  border-color: rgba(200, 241, 53, 0.35);
+  background: rgba(236, 126, 74, 0.18);
+  border-color: rgba(236, 126, 74, 0.35);
 }
 
 .profile-cta {
@@ -1002,7 +1002,7 @@ p {
 
 .profile-cta:hover {
   transform: translateY(-2px);
-  box-shadow: 0 18px 32px rgba(200, 241, 53, 0.22);
+  box-shadow: 0 18px 32px rgba(236, 126, 74, 0.22);
 }
 
 .social-icon {
@@ -1158,7 +1158,7 @@ p {
   font-style: italic;
   font-weight: 400;
   color: var(--color-primary);
-  text-shadow: 0 0 40px rgba(200, 241, 53, 0.45), 0 0 80px rgba(200, 241, 53, 0.2);
+  text-shadow: 0 0 40px rgba(236, 126, 74, 0.45), 0 0 80px rgba(236, 126, 74, 0.2);
 }
 
 .hero-subtext {
@@ -1185,8 +1185,8 @@ p {
   justify-content: center;
   gap: 8px;
   padding: 16px 32px;
-  background: #c8f135;
-  color: #fff;
+  background: #EC7E4A;
+  color: #ffffff;
   font-size: 15px;
   font-weight: 600;
   text-decoration: none;
@@ -1197,7 +1197,7 @@ p {
 }
 
 .hero-cta-primary:hover {
-  background: #c8f135;
+  background: #EC7E4A;
   transform: translateY(-2px);
   box-shadow: 0 8px 24px rgba(255, 255, 255, 0.2);
 }
@@ -2181,8 +2181,8 @@ p {
 
 .cta-btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(200, 241, 53, 0.3);
-  background-color: #b5dd30;
+  box-shadow: 0 8px 24px rgba(236, 126, 74, 0.3);
+  background-color: #d96d3b;
 }
 
 .cta-btn-secondary {
